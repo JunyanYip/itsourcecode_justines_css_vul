@@ -8,6 +8,8 @@ Position: "body"
 
 ParamKey: "to"
 
+payload: "<script>alert(document.cookie)</script>"
+
 ##### Process description
 
 Enter payload in the date selection box.

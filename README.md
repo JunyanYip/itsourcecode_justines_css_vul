@@ -1,6 +1,6 @@
-# itsourcecode_justines_css_vul
+# itsourcecode_justines_xss_vul
 
-##### Some information
+#### Some information
 
 Vulnerability type: xss
 
@@ -10,7 +10,7 @@ ParamKey: "to"
 
 payload: "<script>alert(document.cookie)</script>"
 
-##### Process description
+#### Process description
 
 Enter payload in the date selection box.
 
